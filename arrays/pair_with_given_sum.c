@@ -42,6 +42,5 @@ int main()
     printf("No pair found.\n");
 
 
-    return 0;
-
+    return 0;   
 }
