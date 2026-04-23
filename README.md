@@ -11,3 +11,5 @@ This repository contains my daily practice of C programming.
 Completed Day 4 of array problems.
 
 Will continue improving logic and solving more problems.
+
+Day 4 completed. Recovering from illness, will continue soon.
